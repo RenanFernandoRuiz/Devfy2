@@ -1,0 +1,64 @@
+.nav {
+    width: 26rem;
+    height: 37.9rem;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    top: 0;
+    position: fixed;
+  }
+  
+  .logo {
+    text-align: center;
+  }
+  
+  .logo img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menuItem {
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  
+  .menuItem:hover {
+    background-color: #333;
+  }
+  
+  .playlist {
+    padding: 20px 0;
+  }
+  
+  .playlist p {
+    font-weight: Arial;
+    cursor: pointer;
+  }
+  
+  .playlist p:hover {
+    text-decoration: underline;
+  }
+
+  .playlist button {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  
+  .playlist button:hover {
+    background-color: #ccc;
+    color: #000;
+  }
+
+ 
+  
+  

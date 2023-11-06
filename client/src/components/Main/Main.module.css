@@ -1,0 +1,48 @@
+.main {
+    width: 66%; 
+    float: right;
+    background-color: rgba(0, 0, 0, 0.9); 
+    
+    box-shadow:   rgba(0, 0, 0, 0.9); 
+    position: fixed;
+    top: 0;
+    left: 29em;
+    right: 300px;
+  }
+
+
+ 
+  
+  .header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-end; /* Alinhar elementos à direita */
+    align-items: center;
+    padding: 10px 20px;
+    height: 60px; /* Ajuste a altura conforme necessário */
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .loginButton {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 20px; 
+    
+  }
+  
+  
+  
+  
+ 
+
+  
+  

@@ -1,0 +1,30 @@
+
+
+.container {
+    text-align: left;
+    padding: 17rem;
+    background-color: #ccc;
+  
+    
+  }
+  
+  .playlistTitle {
+    font-size: 20px; 
+    margin-bottom: 10px; 
+    
+  }
+  
+  .cardContainer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+  }
+  
+  .card {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    min-width: 100px;
+  }
+  
