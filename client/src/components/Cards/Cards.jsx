@@ -6,15 +6,25 @@ function Cards() {
     <div className={styles.container}>
       <h2 className={styles.playlistTitle}>Playlist</h2>
       <div className={styles.cardContainer}>
-       <div className={styles.card}>Card 1</div>
-        <div className={styles.card}>Card 2</div>
-        <div className={styles.card}>Card 3</div>
-        <div className={styles.card}>Card 4</div>
+        <div className={styles.card}>
+          <img src="" alt="" />
+          Card 1
+        </div>
+        <div className={styles.card}>
+          <img src="" alt="" />
+          Card 2
+        </div>
+        <div className={styles.card}>
+          <img src="" alt="" />
+          Card 3
+        </div>
+        <div className={styles.card}>
+          <img src="" alt="" />
+          Card 4
+        </div>
       </div>
     </div>
-   
   );
 }
 
 export default Cards;
-
