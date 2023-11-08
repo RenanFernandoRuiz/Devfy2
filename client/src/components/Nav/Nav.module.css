@@ -1,11 +1,12 @@
 .nav {
     width: 26rem;
     height: 37.9rem;
-    background-color: #000;
+    background-color: #101010;
     color: #fff;
     padding: 20px;
     top: 0;
     position: fixed;
+    
   }
   
   .logo {
