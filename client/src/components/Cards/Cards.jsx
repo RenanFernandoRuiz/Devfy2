@@ -9,21 +9,16 @@ function Cards() {
       <br />
       <div className={styles.cardContainer}>
         <div className={styles.card}>
-          <img src="" alt="" />
-          Card 1
+          <img  src="dis.png" alt="" />
         </div>
         <div className={styles.card}>
-          <img src="" alt="" />
-          Card 2
+          <img src="vinil.png" alt="" />
         </div>
         <div className={styles.card}>
-          <img src="" alt="" />
-          Card 3
+          <img src="disco1.png" alt="" />
+         
         </div>
-        <div className={styles.card}>
-          <img src="" alt="" />
-          Card 4
-        </div>
+       
       </div>
     </div>
   );

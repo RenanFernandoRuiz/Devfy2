@@ -17,10 +17,10 @@
     background-color: black;
     color: white;
     display: flex;
-    justify-content: flex-end; /* Alinhar elementos à direita */
+    justify-content: flex-end; 
     align-items: center;
     padding: 10px 20px;
-    height: 60px; /* Ajuste a altura conforme necessário */
+    height: 60px; 
   }
   
   .right {
