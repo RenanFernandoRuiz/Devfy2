@@ -4,7 +4,9 @@ import styles from './Cards.module.css';
 function Cards() {
   return (
     <div className={styles.container}>
-      <h2 className={styles.playlistTitle}>Playlist</h2>
+      <h2 className={styles.playlistTitle}>Playlists do Spotify</h2>
+      <br />
+      <br />
       <div className={styles.cardContainer}>
         <div className={styles.card}>
           <img src="" alt="" />

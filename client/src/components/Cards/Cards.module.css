@@ -1,23 +1,30 @@
 
 
 .container {
-    text-align: left;
-    padding: 17rem;
+    
+    height: 19.5rem;
     background-color: #161515;
+  padding: 10em;
+  
   
     
   }
   
   .playlistTitle {
-    font-size: 20px; 
+    font-size: 30px; 
     margin-bottom: 10px; 
+    color: white;
+    text-align: center;
     
   }
   
   .cardContainer {
     display: flex;
     justify-content: flex-end;
-    gap: 30px;
+    gap:30px
+
+ 
+    
   }
   
   .card {
@@ -26,5 +33,6 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     min-width: 100px;
+    height: 10em;
   }
   
